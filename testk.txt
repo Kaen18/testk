@@ -1,1 +1,18 @@
 HOLA MUNDO
+
+git add . -f "agrega todos los archivos nuevos"
+git commit -m "guarda los cambios y le agrega comentarios"
+git push origin main "envia los cambios"
+
+push "es de enviar"
+pull "es de estirar"
+
+git remote -v "imprime la url remota
+
+origin "la url o git a donde se va a enviar"
+
+git branch "imprime en que rama estamos trabajando"
+
+main "es la rama master"
+
+git log "historial de cambios"
